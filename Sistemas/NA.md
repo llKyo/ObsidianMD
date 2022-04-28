@@ -73,7 +73,11 @@ $GLOBALS['gs_directorio_raiz']     = "UDS/kevin.trivino/NA";
 $GLOBALS['gs_directorio_raiz_ftp'] = "UDS/kevin.trivino/NA";
 ```
 
+### 0. Archivo con los cambios realizados
 
+![[config.php]]
+
+![[config_variables_globales.php]]
 
 
 
